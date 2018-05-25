@@ -1,0 +1,27 @@
+@charset "utf-8";
+#header {
+	background-image: url(images/header.png);
+	height: 49px;
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main {
+	background-image: url(images/main.png);
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainL {
+	width: 537px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer {
+	background-image: url(images/footer.png);
+	height: 68px;
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
